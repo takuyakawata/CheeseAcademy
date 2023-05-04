@@ -3,7 +3,7 @@
 # チーズアカデミー
 ## DEMO
 
-  - デプロイしている場合はURLを記入（任意）
+  - デプロイしている場合はURLを記入  https://takuyakawata.github.io/CheeseAcademy/
 
 ## 紹介と使い方
 
